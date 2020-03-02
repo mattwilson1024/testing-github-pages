@@ -10,6 +10,13 @@ You can write content using [GitHub-flavored Markdown syntax](https://github.git
 
 To serve as an example page when styling markdown based Docusaurus sites.
 
+
+
+<iframe src="https://stackblitz.com/edit/mw-test-1?embed=1&file=src/app/app.component.ts&view=preview" width="100%" height="450px"></iframe>
+
+
+
+
 ## Headers
 
 # H1 - Create the best documentation
